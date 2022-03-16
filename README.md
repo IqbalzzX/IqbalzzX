@@ -22,10 +22,6 @@ ___
 <p align="center">
   <a href="https://github.com/IqbalzzX"><img src="https://github-readme-streak-stats.herokuapp.com?user=IqbalzzX&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
-  
-<p align="center">
-  <a href="https://github.com/IqbalzzX"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=IqbalzzX&theme=tokyonight&layout=compact" /></a>
-</p>
 
 <p align="center">
   <a href="https://github.com/IqbalzzX"><img src="https://github-profile-trophy.vercel.app/?username=IqbalzzX&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
